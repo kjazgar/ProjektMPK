@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>be06c712-78c4-4012-964c-72aa2e768ef1.DATABASE:ProjektMPK</OriginalElement>
+  <nodes>
+    <node x="1199.5" y="215.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Autobusy</node>
+    <node x="861.5666666666666" y="22.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Poziomy_uprawnien</node>
+    <node x="48.27499999999992" y="22.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Przystanki</node>
+    <node x="298.25" y="215.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Kierowcy_autobusow</node>
+    <node x="640.0" y="0.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Pracownicy</node>
+    <node x="373.08333333333337" y="11.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Linie</node>
+    <node x="778.25" y="215.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Motorniczy</node>
+    <node x="63.25" y="193.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Relacje</node>
+    <node x="0.0" y="386.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Opis_trasy</node>
+    <node x="1057.1916666666666" y="22.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Pojazdy</node>
+    <node x="992.5" y="215.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Tramwaje</node>
+    <node x="599.25" y="171.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Godziny_pracy</node>
+    <node x="90.02499999999986" y="579.0">be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Godziny_odjazdow</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Opis_trasy" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Relacje">
+      <point x="52.75" y="-71.5" />
+      <point x="158.25" y="361.0" />
+      <point x="117.0" y="361.0" />
+      <point x="-53.75" y="60.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Motorniczy" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Poziomy_uprawnien">
+      <point x="39.0" y="-38.5" />
+      <point x="895.25" y="141.0" />
+      <point x="903.5666666666666" y="141.0" />
+      <point x="-42.0" y="38.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Relacje" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Linie">
+      <point x="71.66666666666669" y="-60.5" />
+      <point x="242.41666666666669" y="151.0" />
+      <point x="403.58333333333337" y="151.0" />
+      <point x="-30.5" y="49.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Godziny_pracy" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Pojazdy">
+      <point x="53.0" y="-82.5" />
+      <point x="731.75" y="151.0" />
+      <point x="1087.6916666666666" y="151.0" />
+      <point x="-61.0" y="38.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Tramwaje" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Poziomy_uprawnien">
+      <point x="-46.75" y="-38.5" />
+      <point x="1039.25" y="141.0" />
+      <point x="987.5666666666666" y="141.0" />
+      <point x="42.0" y="38.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Godziny_odjazdow" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Relacje">
+      <point x="40.75" y="-71.5" />
+      <point x="212.27499999999986" y="554.0" />
+      <point x="224.5" y="554.0" />
+      <point x="53.75" y="60.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Autobusy" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Pojazdy">
+      <point x="0.0" y="-38.5" />
+      <point x="1269.0" y="151.0" />
+      <point x="1209.6916666666666" y="151.0" />
+      <point x="61.0" y="38.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Opis_trasy" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Przystanki">
+      <point x="-52.75" y="-71.5" />
+      <point x="52.74999999999994" y="151.0" />
+      <point x="71.60833333333323" y="151.0" />
+      <point x="-46.666666666666686" y="38.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Tramwaje" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Pojazdy">
+      <point x="46.75" y="-38.5" />
+      <point x="1132.75" y="151.0" />
+      <point x="1148.6916666666666" y="151.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Godziny_pracy" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Linie">
+      <point x="-53.0" y="-82.5" />
+      <point x="625.75" y="141.0" />
+      <point x="464.58333333333337" y="141.0" />
+      <point x="30.5" y="49.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Godziny_odjazdow" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Opis_trasy">
+      <point x="-40.75" y="-71.5" />
+      <point x="130.77499999999986" y="554.0" />
+      <point x="105.5" y="554.0" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Godziny_pracy" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Pracownicy">
+      <point x="0.0" y="-82.5" />
+      <point x="678.75" y="151.0" />
+      <point x="715.0" y="151.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Relacje" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Przystanki">
+      <point x="0.0" y="-60.5" />
+      <point x="170.75" y="151.0" />
+      <point x="164.9416666666666" y="151.0" />
+      <point x="46.66666666666666" y="38.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Kierowcy_autobusow" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Pracownicy">
+      <point x="0.0" y="-38.5" />
+      <point x="438.75" y="151.0" />
+      <point x="665.0" y="151.0" />
+      <point x="-50.0" y="60.5" />
+    </edge>
+    <edge source="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Motorniczy" target="be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Pracownicy">
+      <point x="-39.0" y="-38.5" />
+      <point x="817.25" y="141.0" />
+      <point x="765.0" y="141.0" />
+      <point x="50.0" y="60.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.775570272259014" x="669.5" y="361.0" />
+  <SelectedNodes>
+    <node>be06c712-78c4-4012-964c-72aa2e768ef1.TABLE:ProjektMPK.dbo.Autobusy</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+

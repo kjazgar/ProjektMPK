@@ -1,0 +1,1352 @@
+0 Wysiolek Luborzycki Radwany
+1 Przeginia Duchowna Szkola
+2 Os.Podwawelskie
+3 Czerwiakowskiego
+4 AGH
+5 Pod Fortem
+6 Niepolomice Jazy
+7 Zakamycze
+8 Stachiewicza
+9 Skawina Korabnicka Szkola
+10 Popielidow
+11 Podleze Centrum
+12 Pachonskiego
+13 Wegrzce
+14 Niepolomice Pasternik
+15 Ochodza Odwisle
+16 Fort Swoszowice
+17 Brzezinka Skrzyzowanie
+18 Krasieniec Zakupny
+19 EC leg
+20 Grabie Szczurow
+21 Dajwor
+22 Os.Piastow
+23 Michalowice Ujecie Wody
+24 Dworzec Glowny Tunel
+25 Pielgrzymowice I
+26 Rudawa Bloki
+27 Waly Wislane
+28 Ochmanow Otaczarnia
+29 Rybna Osrodek Zdrowia
+30 Tuchowska
+31 Wieczysta
+32 Droga do Rzaski
+33 Michalowice Kwiaty Polne
+34 Glinnik
+35 Owczary
+36 Dwor Czeczow
+37 swiatniki Skrzyzowanie
+38 Kaszow lysa Gora
+39 Tyniecka Autostrada
+40 Stopien Wodny
+41 Mochnaniec
+42 Os.Oswiecenia
+43 Lubostron
+44 Zastow
+45 Os.Kalinowe
+46 Lipska
+47 Polana zywiecka
+48 Gorskie Domy
+49 Wiktorowice Skrzyzowanie
+50 Niepolomice Kolejowa
+51 Bielany Klasztor
+52 Wyzral I
+53 Nielepice
+54 Konczyce
+55 Myslenicka
+56 Podgaje
+57 Na Zaleczu Szkola
+58 Swoszowice
+59 Krzyszkowice Kasztanowa I
+60 Niepolomice Boryczow
+61 Zielonki Skrzyzowanie
+62 Dlubnia
+63 Biezanow Drozdzownia PKP
+64 Laskowiec
+65 Starowislna
+66 lokietka
+67 Os.Kolorowe
+68 Konary
+69 Sielanka
+70 Os.Wandy
+71 Surzyckiego
+72 Wyciaze Wiadukt
+73 Kobylany I
+74 Rzeszotary Zalesie
+75 Rudawa Kosciol
+76 Wydzial Farmaceutyczny UJ
+77 Batowice PKP
+78 Szyce I
+79 Gorka Narodowa Wschod
+80 Ksiazniczki Boisko
+81 Skawina Tyniecka Osiedle
+82 Brzeznica Pasieka
+83 Chelmska
+84 Maszyce II
+85 Petöfiego
+86 Czulow I
+87 Zachodnia
+88 Lusina Dwor
+89 Budzyn Plaza Glowna
+90 Medweckiego
+91 Goluchowice
+92 Nalkowskiej
+93 Imbramowska
+94 slaskiego
+95 Wroblowice Dom Kultury
+96 Struga
+97 Pedzichow
+98 Rzeszotary Pod Debina
+99 Skala Kmity
+100 Teatr Ludowy
+101 Sadowie
+102 Radzikowskiego Osiedle
+103 Rondo Matecznego
+104 Pielgrzymowice
+105 Wola Radziszowska Centrum
+106 Bagienna
+107 Ojcowska Wagroda
+108 Bohomolca
+109 Kopanka
+110 Wyzral Szkola
+111 Nowohucka
+112 Zabierzow Osrodek Zdrowia
+113 Libertow Szkola
+114 Michalowice Osrodek Zdrowia
+115 Wegrzce Centrum
+116 Slomczynskiego
+117 Wrony
+118 Skawina Sad
+119 Polanka Hallera Dwor
+120 Podskale
+121 Wadow Osiedle
+122 Wieliczka CPN
+123 Koszykarska
+124 Motyla
+125 Chrosna
+126 Korzkiew I
+127 Przybyslawice II
+128 lososkowice Szkola
+129 Narzymskiego
+130 Granica Miasta
+131 Wolowice Sklep
+132 Makuszynskiego
+133 Kapelanka
+134 Droga do Sidziny
+135 Bratyslawska
+136 Azory
+137 Kawiory
+138 Narama
+139 Zakepie
+140 Slomiana
+141 Wolowice Niwa
+142 Jaskowice
+143 Wolica Las
+144 M1 Al. Pokoju
+145 Kapielowa
+146 Rybna Dol
+147 Raczna Dzikowiec
+148 Bora-Komorowskiego
+149 Mogilany Osrodek Zdrowia
+150 Wola Radziszowska Mala Ostra Gora
+151 Mydlniki Granica Miasta
+152 Tomaszowice Gliniki
+153 Biezanow Potrzask
+154 Szyce II
+155 Mogilany Wlosan
+156 Os.Jagiellonskie
+157 Podleze Straz
+158 Malborska
+159 Bibice Petla
+160 Owczary I
+161 Babinskiego
+162 Chalubinskiego
+163 Przeginia Narodowa II
+164 Elektromontaz
+165 Kenara
+166 Hallera
+167 Plac Centralny im. R.Reagana
+168 Trojadyn Skrzyzowanie
+169 Wolowice Kapliczka
+170 Muzeum Lotnictwa
+171 Kopiec Kosciuszki
+172 Karniowice I
+173 Nowy Biezanow Poludnie
+174 Rzozow Zagonnie
+175 Chrosna Studnia
+176 Ratajow Skrzyzowanie
+177 Gorna Wies
+178 Kamienskiego
+179 Biezanow Szkola
+180 Skawina Korabnicka
+181 Balicka Wiadukt
+182 Os.Mistrzejowice Nowe
+183 Arka
+184 Soltysowska Osiedle
+185 Borek Falecki
+186 Tyniec
+187 Belwederczykow
+188 Tonie Katy
+189 Kosocicka
+190 Kordylewskiego
+191 Ks.laczka
+192 Krzyszkowice Modrzewiowa
+193 Radziszow Zadworze
+194 Bedkowice Kawiory
+195 Podgorki Skawinskie
+196 Tonie
+197 Slona Woda
+198 Rzepakowa
+199 Zagacie I
+200 Wola Radziszowska Lipki
+201 Siewna
+202 Kopanka Szkola
+203 Os.Na Skarpie
+204 Tonie Skrzyzowanie
+205 Marszowice Gory
+206 Mlodziejowice Park
+207 Klokoczyn
+208 Cmentarz Podgorski
+209 cwiklinskiej
+210 Sudolska
+211 Chelmonskiego Osiedle
+212 Wegrzce Starostwo Powiatowe
+213 Radziszow
+214 Krowodrza Gorka
+215 Kleeberga
+216 Skawina Kopernika I
+217 lutnia
+218 Krzysztoforzyce Sklep
+219 Skawina
+220 Wlosan
+221 Ludwinow
+222 Kosmowskiej
+223 swiatniki Gorne
+224 Batalionu "Skala" AK
+225 Skawina Popieluszki
+226 Witosa
+227 Ojcowska
+228 Wieckowice
+229 Os.Na Stoku Szkola
+230 Bielany Szkola
+231 Biezanow Trafo
+232 Skawina Podbory
+233 Zielonki UG
+234 Os.Kliny
+235 Aleja Przyjazni
+236 Park Wodny
+237 Prokocim
+238 Rudawa Mlyn
+239 Plaszow Szkola
+240 Krzeslawice
+241 Kolna
+242 Zawiszy
+243 Bosakow
+244 Judyma
+245 Koksochemia
+246 Zaskale
+247 Piekary I
+248 Droga do Niegoszowic
+249 Pasternik
+250 Swoszowice Autostrada
+251 Wesele
+252 Mala Gora
+253 Cholerzyn Granica
+254 Sikorki
+255 Jaskowice PKP
+256 Rzebika
+257 Mnikow Sklep
+258 Liszki UG
+259 Mlodziezy
+260 Zelkow I
+261 Plac Wszystkich swietych
+262 Czyzyny
+263 Kamienskiego Wiadukt
+264 Zabierzow Dzialki
+265 Piaszczysta
+266 Wegrzce Wielkie III
+267 Strzelcow
+268 Sodfiny
+269 Bosutow
+270 Wyciaze Zachod
+271 Bystronia
+272 Os.Gorali
+273 Dziady
+274 Konopnickiej
+275 Piekary Sklep
+276 Cmentarz Rakowicki Zachod
+277 Krzysztoforzyce przy Dworze
+278 Wieclawice Stare
+279 Skawina Rynek
+280 Chalupki Gorne
+281 Kabel
+282 Golkowice
+283 Jezynowa
+284 Beblo Stara Wies
+285 Kostrze
+286 Truskawkowa
+287 Reymana
+288 Droga do Kaszowa
+289 Bukow
+290 Gaik
+291 Modlniczka Trzcie
+292 Salwator
+293 Skawina Cmentarz
+294 Dom Spokojnej Starosci
+295 Teligi
+296 Bronowice Wielkie
+297 Krasnik
+298 Glogera
+299 Mydlniki Stawy
+300 Grota-Roweckiego
+301 Kocmyrzow
+302 Gustawa Morcinka
+303 Zelczyna Sklep
+304 Rondo Barei
+305 Wielkie Drogi Osrodek Zdrowia
+306 Stella-Sawickiego
+307 Slomniki Zagloby
+308 Rzozow Baseny
+309 Komuny Paryskiej
+310 Kamien Dol
+311 luczyce Zjawienie
+312 Smardzowice IV
+313 Ruszcza Cmentarz
+314 Ruszcza
+315 Kupaly
+316 Jarzebiny
+317 Zielonki Galicyjska
+318 Wegrzce Blonie
+319 Rzeszotary Polanki
+320 Trojadyn Trafo
+321 Os.lokietka
+322 Trojanowice Strugi
+323 Brzegi I
+324 Plac Wolnica
+325 Brzezie Kulka
+326 DH Wanda
+327 Suchy Jar
+328 Prokocim Cmentarz
+329 Zabierzow Mlyn
+330 Os.Zlotego Wieku
+331 Mackiewicza
+332 Krowodrza Urzedy Skarbowe
+333 Batowice
+334 Dojazdow PKS
+335 Wegrzce Wielkie
+336 Sidzina
+337 zyzna
+338 Wadow Dzialki
+339 Zelczyna I
+340 Dabrowki I
+341 Lesisko
+342 Maslomiaca I
+343 Trzecia Gora
+344 Skawina Samborek Most
+345 Makowa
+346 Krzyszkowice Kosciol
+347 Skawina Robotnicza
+348 Dabie
+349 Dauna
+350 Wislicka
+351 Habina
+352 Krzysztoforzyce
+353 Dworzec Glowny Zachod
+354 Rybitwy Rozjazd
+355 Marii Dabrowskiej
+356 Wiktorowice Granica
+357 Bedkowice Mosurowa
+358 Niepolomice Moczydlo
+359 Biezanow Cmentarz
+360 Bulwarowa
+361 Mogilany Rynek
+362 Wola Zachariaszowska
+363 Skrajna
+364 Lusina Szkola
+365 Czajowice
+366 Rodzinna
+367 luczyce Zwierzyniec
+368 Czerwone Maki
+369 Opolska Estakada
+370 Lubocza Przychodnia
+371 Skawina Energetykow
+372 Os.Zgody
+373 Lipka
+374 Radziszow Za Mogilka
+375 Batorego
+376 Lubocza Trafo
+377 Wawel
+378 Niepolomice Batorego II
+379 Leszka Bialego
+380 Podleze Przedszkole
+381 Rzeszotary
+382 Zbydniowice
+383 Raczna Podlas
+384 Michalowice
+385 Sucharskiego
+386 Chmieleniec
+387 sw.Gertrudy
+388 Morawica Krzyzowka
+389 Brzoskwinia Sklep
+390 Tretowka
+391 Michalowice Komora
+392 Glogera Granica Miasta
+393 Bedkowice
+394 Kliny Zacisze
+395 Rzepakowa swietlica
+396 sciejowice Na Bagnach
+397 Forteczna
+398 Makowskiego
+399 Szczyglice Autostrada
+400 Jeziorzany
+401 Szpital Okulistyczny
+402 zywiecka
+403 Wlotowa
+404 Zagorzyce Stare
+405 Kryspinow Sanka
+406 Przylasek Rusiecki
+407 Meissnera
+408 Powstancow Wielkopolskich
+409 Uniwersytet Rolniczy
+410 Taklinskiego
+411 Niepolomice Katek
+412 Raczna I
+413 Sulkowskiego
+414 Czernichow
+415 Os.Willowe
+416 Soltysowska
+417 Brzyczyna
+418 Cystersow
+419 Zelkow
+420 Fort Winnica
+421 Halszki
+422 Skawina Nad Potokiem
+423 Agatowa
+424 Marcholta
+425 Olsza II
+426 Pruszynskiego
+427 Podwierzbie
+428 Sanka Skrzyzowanie
+429 Nowy Biezanow
+430 Olszanica Bory
+431 Opatkowice Wiadukt
+432 Skawina Korabniki
+433 Ostafina
+434 Liszki Krzyzowka
+435 Wieliczka Park
+436 Rybna II
+437 Bibice
+438 Zajezdnia Plaszow
+439 Balice Grzybow
+440 Teatr Bagatela
+441 Kantorowice
+442 Wegrzce Petla
+443 Zielona Mala
+444 Gospodarska
+445 Krzeszowice
+446 Wyki
+447 Nowa Wies Jesionka
+448 Wielkie Drogi Trzebol
+449 Wieliczka Kopalnia Soli
+450 Czyzyny Dworzec
+451 Owczary Gajowa
+452 Jugowicka
+453 Skawina Pilsudskiego
+454 Darwina
+455 Wybickiego
+456 Rzozow Szkola
+457 Borkowska
+458 Norymberska
+459 Olszanica
+460 Slomniki Osiedle
+461 Goszyce Remiza
+462 Wysylek
+463 Stojalowskiego
+464 Sieborowice
+465 Nowa Wies Kapliczka
+466 Blonia Koscielnickie
+467 Skosna
+468 Wieliczka Cmentarz
+469 Nadbrzezie
+470 Misnienska
+471 Morawica Mostek
+472 Beblo labajowa
+473 Kobylany Remiza
+474 Radziszow Stare Sanatorium
+475 Gaj Szkola
+476 Os.Kosciuszkowskie
+477 Ratanice
+478 Libertow Dolny
+479 zerkowice Skrzyzowanie
+480 Przegon
+481 Brzeznica
+482 Budzyn Zalew na Piaskach
+483 Aleja 29 Listopada
+484 Bolechowice
+485 Konary Buk
+486 Wielicka
+487 Raczna Osiedle
+488 Akacjowa
+489 Rondo Czyzynskie
+490 Garlica Murowana Kasztany
+491 Zelkow Staw
+492 Droga do Janowic
+493 Rzeszotary Tempo
+494 Burow
+495 Rusocice Zaleg
+496 Wola Batorska Cmentarz
+497 Wegrzce Sudol
+498 Powstancow Garaze
+499 Mlynka I
+500 Instytut Reumatologii
+501 Wroblowice Cmentarz
+502 Skawina 29 Listopada
+503 Nowa Wies Kosciol
+504 Przylasek Wyciaski
+505 Wola Batorska Zamoglice
+506 Banacha
+507 Petrazyckiego
+508 Radziszow Cmentarz
+509 Brzezinka Zarzecze
+510 Michalowka
+511 Rzemieslnicza
+512 Brzeska
+513 Kaszow
+514 Trojanowice
+515 Pielgrzymowice II
+516 Wieliczka
+517 Garliczka Chochol
+518 Skotniki
+519 Skawina Radziszowska
+520 lobzow PKP
+521 Szymanskiego
+522 Bartnicza
+523 Wegrzce Sudol I
+524 Klasztorna
+525 Chalupki
+526 Wzgorza Krzeslawickie
+527 Rybitwy Sklep
+528 Zelczyna Szkola
+529 Kulerzow
+530 Wrzasowice
+531 Goszcza Cmentarz
+532 Trojanowice I
+533 Zakole
+534 Czernichow GS
+535 Morawica
+536 Przeginia Duchowna Centrum
+537 Raciborowice Centrum
+538 Krzecin Czesna
+539 Rusocice Jalowce
+540 Morawica Cmentarz
+541 Slomniki Rynek
+542 Mlyn
+543 Kasztanowa
+544 Bulwarowa Ogrodki Dzialkowe
+545 Ochojno Skrzyzowanie
+546 Piekary III
+547 Zawierzbie
+548 Jordanowska
+549 Zagrody
+550 Polanowice Kolonia
+551 Liszki I
+552 Wadowska
+553 lukasiewicza
+554 Kokotow II
+555 Katowicka
+556 Czarnowiejska
+557 luzycka
+558 Zatyka
+559 Hofmana
+560 Batowice I
+561 Oleandry
+562 Malczewskiego
+563 Szparagowa
+564 Brzoskwinia Kamyk
+565 Cholerzyn Skrzyzowanie
+566 Agencja Krakow Wschod
+567 Os.Na Stoku
+568 UR Balicka
+569 Cichy Kacik
+570 Krasieniec
+571 Grabie Polanka
+572 Dworzec Glowny Wschod
+573 Wrzasowice I
+574 Ratanice I
+575 Wilga
+576 Piekary Gorne
+577 Zablocie Koscielnickie
+578 Fort Bodzow
+579 Bacutil
+580 Niepolomice Poreby
+581 Hala Targowa
+582 Bibice I
+583 Zielinskiego
+584 Kurdwanow Szkola
+585 Skawina Kopernika
+586 Ochodza Staw
+587 Bosutow Krakowska
+588 Bedkowice Borynia
+589 Rzaska
+590 Wlosan Krzyzowka
+591 Kuznicy Kollatajowskiej
+592 Zlocien
+593 Batowice Kapliczka
+594 Politechnika
+595 Wyzral
+596 Ruczaj
+597 Polanowice
+598 Krzecin Szkola
+599 Pleszow
+600 Winna Gora
+601 Skawina Ajka
+602 Wrozenice Gorka
+603 Kakolowa
+604 Powstancow
+605 Uniwersytet Jagiellonski
+606 Gora Borkowska
+607 Rzaska Jednostka Wojskowa
+608 Mazowiecka
+609 Tomaszowice Wedonka
+610 Radziszow Podlesie
+611 Bibice Cmentarz
+612 Swoszowice Pawilon
+613 Rajsko
+614 Balice OSP
+615 Rzaska UR
+616 Biezanow Granica Miasta
+617 Wola Radziszowska
+618 Biezanow Bazy
+619 M1 Nowohucka
+620 Sieroszewskiego
+621 Wola Batorska zwirownia
+622 Jeziorzany I
+623 Winnicka
+624 Jasienskiego
+625 Kobylany
+626 Suche Stawy
+627 swiatniki Krakowska
+628 Plk. Dabka
+629 Szafranska
+630 Aleja Roz
+631 Niebieska Autostrada
+632 swiatniki I
+633 Ofiar Dabia
+634 Zabawa
+635 Chobot Lesniczowka
+636 Przewoz
+637 Beskidzka
+638 Przy Kuzni
+639 Ojcowska Dworek
+640 Branice Osrodek Zdrowia
+641 Os.Zielone
+642 Wielka Wies
+643 Piasta Kolodzieja
+644 Skawina Starostwo Powiatowe
+645 Skawina Szkola
+646 Pasternik Cmentarz
+647 Wolowice Szkola
+648 Jana Kazimierza
+649 Sidzina Olszyny
+650 Radzikowskiego
+651 Skawina Elektrownia
+652 Oczyszczalnia sciekow "Kujawy"
+653 Baba Jaga
+654 Balice I
+655 Zielona
+656 Michalki
+657 Bonarka
+658 Radwanowice I
+659 Olszanica Kapliczka
+660 Modlniczka Mala
+661 Szpital Narutowicza
+662 Wadow Tunel
+663 Park Decjusza
+664 Malinowskiego
+665 Radwanowice Petla
+666 Krzecin
+667 Kobierzyn
+668 Kokotow I
+669 Okulickiego
+670 Mydlniki PKP
+671 Maszyce Remiza
+672 Podkamycze
+673 Wielicka Granica Miasta
+674 Mala Wies
+675 Borek Szlachecki I
+676 Kopalina
+677 Podleze Balachowka
+678 Skrzeszowice
+679 Zelkow Wola
+680 Spadochroniarzy
+681 Rybitwy Dom Kultury
+682 Wysiolek Luborzycki I
+683 Gosciniec
+684 Przybyslawice I
+685 Brzozowka
+686 Grabie Dom Kultury
+687 Miechowity
+688 Stoczniowcow
+689 Skawina Wyspianskiego
+690 Michalowice I
+691 Zajezdnia Nowa Huta
+692 Zbydniowice Szkola
+693 Bronowice
+694 Kocmyrzow Krzyzowka
+695 Brzozowka Sklep
+696 Brogi
+697 Chelm
+698 Igolomska
+699 Raczna Kapliczka
+700 Raczna Kosciol
+701 Michalowice Banasiowka
+702 Balice Autostrada
+703 Brücknera
+704 Swoszowice Poczta
+705 Stawowa
+706 Gromadzka
+707 Odmetowa
+708 Torfowa
+709 Drozyska
+710 Zielony Dol
+711 Wola Luborzycka Las
+712 Biskupinska
+713 Walcownia
+714 Wrzasowice Kowaleca
+715 AWF
+716 Wysiolek Luborzycki
+717 Poczta Glowna
+718 Szczegow
+719 sw.Wawrzynca
+720 Skawina PKP
+721 Krzysztoforzyce Gora
+722 Ksiecia Jozefa
+723 Kleszczow
+724 Skawina Koncentraty
+725 Baluckiego
+726 Lesmiana
+727 Rzozow PKP
+728 Przeginia Narodowa
+729 swiatniki Cmentarz
+730 Wola Batorska Kosciol
+731 Os.Na Lotnisku
+732 Kamien
+733 lanowa
+734 Kocmyrzow I
+735 Wegrzynowicka
+736 Rusocice I
+737 Ukraina
+738 Bolechowice I
+739 Lasek Mogilski
+740 Wyzral Wielka Droga
+741 luczyce
+742 Zabierzow I
+743 Wolica Most
+744 Biezanow
+745 Zastow Dzialki
+746 Dworzec Glowny
+747 Mogilany Cmentarz
+748 Warszowka
+749 Wlosan Kopan
+750 Krolowej Jadwigi
+751 lowinskiego
+752 Lubocza PKP
+753 Konary I
+754 Bolechowice II
+755 Rybna Nowy swiat
+756 Grabie
+757 Rybna Zagorze
+758 Bialopradnicka
+759 Jerzmanowskiego
+760 Trojanowice Petla
+761 Kombinat
+762 Rusocice leg
+763 Chobot
+764 Stare Wislisko
+765 Swoszowice Osiedle
+766 Opolska Kladka
+767 Chrosna Sklep
+768 Pytlasinskiego
+769 Gorka Narodowa
+770 Siewna Wiadukt
+771 Skalna
+772 Ochojno Kamieniec
+773 Michalowice Kozlica
+774 Wyslouchow
+775 Witkowice
+776 Malborska Szkola
+777 Lubocza Bugaj
+778 Korzkiew II
+779 Lusina Petla
+780 Prokocim Rynek
+781 Wyciaze
+782 Czerwienskiego
+783 Isep
+784 Opolska
+785 Sodfiny Kolonia
+786 Uniwersytet Pedagogiczny
+787 Wrzasowice II
+788 Skawina Zachodnia
+789 Skawina Cmentarz Komunalny
+790 Michalowice Ogrodowa
+791 Soboniowice
+792 Branice
+793 Prusy Szkola
+794 Tomaszowice
+795 Natansona
+796 Conrada
+797 Modlniczka Poligon
+798 Wolowice
+799 Libertow
+800 Kaszow II
+801 Jurczyce Dom Ludowy
+802 Mogilany Wiadukt
+803 luczanowice
+804 Krzecin Cmentarz
+805 Balice Lesna
+806 Niepolomice Diesla
+807 Rzaska Autostrada
+808 Uniwersytet Ekonomiczny
+809 Cmentarz Rakowicki
+810 Wola Radziszowska leg
+811 Turowicza
+812 Instytut Pediatrii
+813 Praska
+814 Radziszow Kamionna
+815 Brzeznica Kuznia
+816 Giebultow Morgi
+817 Grabie Kosciol
+818 Weigla
+819 Slomniki Kosciuszki
+820 Wola Luborzycka
+821 Skawina Tyniecka
+822 Rzeszotary Trafo
+823 Bienczycka
+824 Ksiazniczki Las
+825 Wielkie Drogi PKP
+826 Ugorek
+827 Wielkie Drogi Szkola
+828 Karniow
+829 Kopanka II
+830 Wyciaze Sklep
+831 Marszowice I
+832 Rusocice Sklad
+833 Fredry
+834 Radziszow Wlosanka
+835 Krzecin Kosciol
+836 Poziomkowa
+837 Goszyce
+838 Os.Kurdwanow
+839 Brozka
+840 Marszowiec
+841 Czernichow II
+842 Krzyszkowice Os.Szymanowskiego
+843 Bochenka
+844 Leroy Merlin
+845 Rzeszotary Panciawa
+846 Wiklinowa
+847 Bielanska
+848 Architektow
+849 Grebalow
+850 Jurczyce Szkola
+851 Nowolipki
+852 Wola Radziszowska Chorzyny
+853 Radziszow Podwale
+854 Modlnica
+855 Lekarska
+856 Dworzec Plaszow
+857 Nad Dlubnia
+858 Tomaszowice I
+859 Rzaka
+860 luczanowice Skrzyzowanie
+861 Wadow Szkola
+862 Wegrzynowice Centrum
+863 Kryspinow
+864 Warchalowskiego
+865 Mistrzejowice
+866 Budzyn Zalew Budzynski
+867 Cholerzyn
+868 Czarnochowice I
+869 Zabierzow Piekarnia
+870 Balice Szkola
+871 Wolica Kosciol
+872 Urzad Marszalkowski
+873 Jubilat
+874 Ochojno Remiza
+875 Garlica Duchowna Rozjazd
+876 Wolica Sklep
+877 Niedzwiedz PKP
+878 Prosta
+879 Pszona
+880 Droga do Garliczki
+881 lososkowice
+882 Lasek legowski
+883 Smardzowice
+884 Lipowskiego
+885 Muzeum Armii Krajowej
+886 Rondo Ofiar Katynia
+887 Zdrowa
+888 Clepardia
+889 Dabrowa Szlachecka Krzemiennik
+890 sciejowice Granica
+891 Wankowicza
+892 Januszowice
+893 Przeginia Duchowna
+894 Zielonki Rozjazd
+895 Aleksandrowice
+896 Szczyglice
+897 Wadow Os.Kolejowe
+898 Barbary
+899 Ochmanow Oknoplast
+900 Krzyszkowice Kasztanowa II
+901 Dabrowa Szlachecka
+902 Slonecznikowa
+903 Rondo Grzegorzeckie
+904 Nowa Wies Szlachecka
+905 Os.Marszowiec
+906 Modlnica II
+907 Zakliki
+908 Stara Wola
+909 Rondo Kocmyrzowskie im. Ks. Gorzelanego
+910 Wola Radziszowska Most
+911 Limanowskiego
+912 Zabawa I
+913 Goluchowice Sklep
+914 Czulice I
+915 Wegrzce Centrum Medyczne
+916 Kapkazy
+917 Wegrzynowice Dol
+918 Smolenskiego
+919 Rynek Debnicki
+920 Trojadyn
+921 Dworzec Towarowy
+922 Zabierzow Gimnazjum
+923 Klasztor Cystersow
+924 Plac Inwalidow
+925 Komorowskiego
+926 Bujaka
+927 Piekary II
+928 Podgorki Tynieckie
+929 Raczkiewicza
+930 Rzeszotary Gorne
+931 Wola Batorska Borek
+932 Wilenska
+933 Aleksandrowice Osiedle
+934 swiatniki Centrum
+935 Michalowice III
+936 Wola Batorska Mikoniowiec
+937 Os.Robotnicze
+938 Szczecinska
+939 Meksyk
+940 Konary Sek
+941 Rzozow Skotnica
+942 Modlnica I Kolonia
+943 Brzegi III
+944 Dozynkowa
+945 Kopanka Kapliczka
+946 Jagielly
+947 Na Krepaku
+948 Bialy Kosciol
+949 Rondo Piastowskie
+950 Grebynice Mogielki
+951 Bielany
+952 Koscielniki
+953 Pradnik Czerwony
+954 Branice Pagorek
+955 Judyma Szkola
+956 Urzad Skarbowy Nowa Huta
+957 Czernichow Bor
+958 Olszanica Ogrodki Dzialkowe
+959 Blokowa
+960 Tondosa
+961 Fiszera
+962 Lusina Granica
+963 Cracovia Blonia
+964 Filharmonia
+965 Chrosna Kapliczka
+966 ZOO
+967 Raczna II
+968 Maly Plaszow
+969 Nielepice Stadnina
+970 Radziszow Zacisze
+971 Opatkowice
+972 Wodociagi
+973 Niepolomice Podgrabie
+974 Baczynskiego
+975 Siejowka
+976 Na Zaleczu
+977 Zajezdnia Bienczyce
+978 Barwna
+979 Przybyslawice III
+980 Prusy
+981 Giebultow
+982 Michalowice II
+983 Przykopy
+984 Lubocza Szkola
+985 Kobierzynska
+986 Kozierow Skrzyzowanie
+987 Clo
+988 Bukow Szkola
+989 Rzozow I
+990 Chabrowa
+991 Radziszow Zawodzie
+992 Rzeszotary Szkola
+993 Janowka
+994 Czulow II
+995 Sulkow
+996 Bielanskie Skaly
+997 Kochanow
+998 Pollanki
+999 Zajezdnia Wola Duchacka
+1000 Cholerzyn Sklep
+1001 Miodowa
+1002 Krakow Arena
+1003 Radziszow Kladka
+1004 Dabrowa Szlachecka Krzyz
+1005 zelazowskiego
+1006 Drozdzowa
+1007 Cmentarz Batowice
+1008 Branice Na Dole
+1009 Goluchowice Jurczyce
+1010 Garlica Murowana
+1011 Cracovia
+1012 Zakonce
+1013 Gaj Zadziele
+1014 Pleszowska
+1015 Centrum JP II
+1016 Zabierzow Piaski
+1017 Niedzwiedz Felix
+1018 swidzinskiego
+1019 Dziekanowice Stacja Batowice
+1020 Niepolomice Wodna
+1021 Strzelnica
+1022 Przegorzaly
+1023 Glowackiego
+1024 Brzoskwinia
+1025 Kochanow I
+1026 Las Borkowski
+1027 Krasieniec Remiza
+1028 Niepolomice Rynek
+1029 Czulow
+1030 Resztowka
+1031 Witkowice Nowe
+1032 Stradom
+1033 Rudawa PKP
+1034 Niepolomice Wielicka
+1035 Ochodza
+1036 Branice Szkola
+1037 Lusina I
+1038 Aleksandry
+1039 Krzecin Sklep
+1040 Brodowicza
+1041 Gwarecka
+1042 Nowosadecka
+1043 Krzyszkowice Rozana
+1044 Skawina Podlipki
+1045 Mydlniki
+1046 Kopce
+1047 Czulowek
+1048 Modlniczka I
+1049 Krzemieniecka
+1050 Swoszowice Sklep
+1051 Liszki II
+1052 Libertow Zgodna
+1053 Wroblowice Szkola
+1054 Wola Radziszowska Podgazle
+1055 Zawila
+1056 Grotowa
+1057 Kostrze Kapliczka
+1058 sciejowice
+1059 Owczary Gorna
+1060 Modlnica Skrzyzowanie
+1061 Mrozowa
+1062 Borsucza
+1063 Grabowki
+1064 Piekary Palac
+1065 Krzeszowice Szkola
+1066 Szpital Rydygiera
+1067 Borki I
+1068 Smolki
+1069 Szczyglice Most
+1070 Wyciaska
+1071 Brzezie Narodowe
+1072 Zabierzow PKP
+1073 Wola Zachariaszowska Kresy
+1074 Landaua
+1075 Siwka
+1076 Wegrzce Magiczne Wzgorze
+1077 Krzecin Kapliczka
+1078 Kostrze Szkola
+1079 Konary Wlosan
+1080 Mogilany Cicha
+1081 Mlodziejowice Mlyn
+1082 Jezowa
+1083 Zeslawice Ogrodki Dzialkowe
+1084 Libertow Dzialy
+1085 Wrozenicka
+1086 Giebultow Plac Zabaw
+1087 Karowa
+1088 Wrozenice
+1089 Dabrowa
+1090 Tor Kajakowy
+1091 Balice II
+1092 Nowy Prokocim
+1093 Krakowka
+1094 Michalowice Lecznica
+1095 Tischnera
+1096 Tonie Gliniki
+1097 zerkowice Kolonia
+1098 Park Jordana
+1099 zeromskiego
+1100 Gielda Balicka P+R
+1101 Fort Mogila
+1102 Bogucianka
+1103 Zaklad Przerobki
+1104 Chorowice
+1105 Pychowice
+1106 Wola Batorska Ruskie
+1107 Kopiec Wandy
+1108 Orkana
+1109 Radziszow PKP
+1110 Balice Instytut
+1111 Slawka
+1112 Pisary Skrzyzowanie
+1113 Wroclawska
+1114 Wolowice III
+1115 Skrzyzowanie do Podchruscia
+1116 Marszowice
+1117 Olszecka
+1118 Kosocice
+1119 Rzepichy
+1120 Krasieniec Stary
+1121 Cmentarz Grebalow
+1122 Rybna I
+1123 Dojazdow Dzialki
+1124 Pilotow
+1125 Rudawa
+1126 Klimeckiego
+1127 Bunscha
+1128 Wola Duchacka
+1129 Hektary
+1130 Rybna Granica
+1131 Os.Strusia
+1132 Poroninska
+1133 Skawina Wojska Polskiego
+1134 Pekowice
+1135 Nawojowa Gora I
+1136 Wola Zabierzowska
+1137 Borek Szlachecki II
+1138 Korona
+1139 Zawila Cmentarz
+1140 Czulowek Kapliczka
+1141 leczycka
+1142 Lubicz
+1143 Borki
+1144 Ujazd Petla
+1145 Kocmyrzowska
+1146 Pradnicka
+1147 Luborzyca I
+1148 Niepolomice Jazy II
+1149 Zelkow II
+1150 Niepolomice Dworzec
+1151 Barycz
+1152 Karpinskiego
+1153 Miasteczko Studenckie AGH
+1154 Wiadukty
+1155 Dobrzyczany
+1156 Piasna Gorka
+1157 Maszyce Skrzyzowanie
+1158 Most Kotlarski
+1159 Radziszow Centrum
+1160 Wieliczka Rynek
+1161 Owczary Dluga
+1162 Albatrosow
+1163 Prusy WSR
+1164 Brzezie
+1165 Biezanow Pomnik
+1166 Kostrze OSP
+1167 Piekary
+1168 Bojki
+1169 Kujawy
+1170 Rondo Mlynskie
+1171 Kulerzow Wawoz
+1172 Raciborowice I
+1173 Wadow Glinik
+1174 Tyniec Kamieniolom
+1175 Krzeszowice Witaminka
+1176 Zablocie
+1177 Zabierzow Bochenski Centrum
+1178 Jurczyce Podole
+1179 Mlynka Petla
+1180 Aleja Waszyngtona
+1181 Iwanowice
+1182 Michalowice Las Michalowski
+1183 Biprostal
+1184 Rozyckiego
+1185 Biskupa Prandoty
+1186 Janasowka
+1187 Geologow
+1188 Jasnogorska
+1189 Grotowa I
+1190 Grebynice II
+1191 Brzoskwinia Koziary
+1192 Brzegi
+1193 Grebynice I
+1194 Nowa Wies
+1195 Pradnik Bialy Zachod
+1196 Grottgera
+1197 Zlocieniowa
+1198 Majora
+1199 Balice III
+1200 slosarczyka
+1201 Bosutow Dziekanowice
+1202 Armii Krajowej
+1203 Beblo Lasek
+1204 Garbarnia
+1205 Raciborowice
+1206 Przeginia Duchowna Bar
+1207 Niepolomice Batorego
+1208 Skawina Os.Radziszowskie
+1209 Wielkie Drogi
+1210 Wrzasowice Gorka
+1211 Opatkowice Zadworze
+1212 Soboniowice Granica Miasta
+1213 Dabrowa Szlachecka Figurka
+1214 Urzednicza
+1215 Borek Falecki I
+1216 Lipinskiego
+1217 Radziszow Lesniczowka
+1218 Park "Skaly Twardowskiego"
+1219 Skotniki Szkola
+1220 luczynskiego
+1221 Wrzasowice III
+1222 Rondo Hipokratesa
+1223 Zakrzow
+1224 lagiewniki
+1225 Sulechow
+1226 Puszkarska
+1227 Nowy Kleparz
+1228 Cechowa
+1229 Dunikowskiego
+1230 Fabryczna
+1231 Lusina Gorka
+1232 Francesco Nullo
+1233 Kruszwicka
+1234 Rondo Mogilskie
+1235 Gleboka
+1236 Zarzecze
+1237 Karniowice
+1238 Burow I
+1239 Piaski Nowe
+1240 Ks.Targosza
+1241 Zielonki Transformator
+1242 Ochodza Dom Ludowy
+1243 Krakow Business Park
+1244 Czulice
+1245 Rostworowskiego
+1246 Cracovia Stadion
+1247 Modlniczka
+1248 Bronowice Wiadukt
+1249 Bociana
+1250 Szczyglice Dom Kultury
+1251 Goszcza
+1252 Luborzyca
+1253 Gorka Pychowicka
+1254 Lusina Spacerowa
+1255 Lublanska
+1256 Krowoderskich Zuchow
+1257 Prokocim Szpital
+1258 Sucha
+1259 Lusina Dolna
+1260 Lajkonika
+1261 Brzezie Dzialki
+1262 Rynek Falecki
+1263 Cedynska
+1264 Rusocice II
+1265 Skawina Centrum Wodne
+1266 Szpital zeromskiego
+1267 Brzezinka
+1268 Rybna
+1269 zwirownia
+1270 Wieliczka Niepolomska
+1271 Bukow Klin
+1272 Rybna Dolna
+1273 Kuklinskiego
+1274 Kampus UJ
+1275 Dymarek
+1276 Kurdwanow
+1277 Dworcowa
+1278 Nad Drwina
+1279 Soltysowska Zaklady
+1280 Zabierzow Sklep
+1281 Piaski Wielkie
+1282 Centralna
+1283 Staniatki Wiadukt
+1284 Benedyktowicza
+1285 Elektrocieplownia Krakow
+1286 luczyce Las
+1287 Pradnik Bialy
+1288 Giebultow Zbiornik
+1289 Lindego
+1290 Wazewskiego
+1291 Zeslawice
+1292 Zdrojowa
+1293 Os.Dywizjonu 303
+1294 Boleslawa smialego
+1295 Skawina Rzepnik
+1296 Domagaly
+1297 Przybyszewskiego
+1298 Zagorzyce Dworskie
+1299 Ksiazniczki Centrum
+1300 Wadow
+1301 Brzoskwinia Gora
+1302 Trojadyn Szydlo
+1303 Wroblowice Rozwidlenie
+1304 Ciekowiec
+1305 Nawojowa Gora II
+1306 Solvay
+1307 Prokocim UJ
+1308 Dabrowki
+1309 Niepolomice Plaszowska I
+1310 Murownia
+1311 Basztowa LOT
+1312 Grabie Kuznia
+1313 Wegrzynowice
+1314 Sanktuarium Bozego Milosierdzia
+1315 Centrum Kongresowe
+1316 Kaszow Tyralowka
+1317 Lusina lany
+1318 Krakow Arena Al. Pokoju
+1319 Brama nr 5
+1320 Brama nr 4
+1321 Czernichow Stacja Paliw
+1322 Panienskich Skal
+1323 Libertow Krzyzowka
+1324 Bialucha
+1325 Krakow Airport T1
+1326 Wieliczka Kosciol
+1327 Wiktorowice Centrum
+1328 Wolica
+1329 Rakowicka
+1330 Garlica Duchowna
+1331 Szwedzka
+1332 Pod Lipa
+1333 Wegrzce Wielkie II
+1334 Maslomiaca
+1335 Zagacie II
+1336 Saska
+1337 Rusocice Wies
+1338 Biezanow Kaim
+1339 Kopanka Kosciol
+1340 Druzbackiej
+1341 Bronowice Male
+1342 Orzeszkowej
+1343 Krasnowolskiego
+1344 Bosutow Straz
+1345 Niepolomice Kosciuszki
+1346 Droga do Jeziorzan
+1347 Mlynka
+1348 Wrobela
+1349 Biezanowska
+1350 Zabierzow
+1351 Podstawie
